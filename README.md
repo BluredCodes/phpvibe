@@ -1,5 +1,7 @@
 ## PHPVibe Video CMS
 # Free Video Sharing CMS 
+# USE THIS https://phpvibe.com/phpvibe/p1/ 
+# The version here is not the real PHPVibe, but PHPVibe Lite (Discontinued!)
 
 The modern choice of design inspired by Youtube and a social videos sharing module that may just cut it for your video portal
 
